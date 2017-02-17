@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Checkerboard IMU Comparator</string>
+    <!-- Keys  -->
+    <string name="sharedprefrences_key">paweltypiak.checkerboard_imu_comparator_key</string>
+    <string name="sharedpreferences_camera_matrix_key">camera_matrix_key</string>
+    <string name="sharedpreferences_distortion_coefficients_key">distortion_coefficients_key</string>
+    <string name="sharedpreferences_necessary_images_number_key">necessary_images_number_key</string>
+    <string name="sharedpreferences_checkerboard_width_key">checkerboard_width_key</string>
+    <string name="sharedpreferences_checkerboard_height_key">checkerboard_height_key</string>
+    <string name="sharedpreferences_is_calibration_done_key">is_calibration_done_key</string>
+    <string name="settings_is_restore_clicked_key">is_restore_clicked_key</string>
+    <!-- Files names  -->
+    <string name="image_name">/sdcard/Checkerboard IMU Comparator/IMG_</string>
+    <string name="images_directory">/sdcard/Checkerboard IMU Comparator</string>
+    <string name="results_file_name">results.txt</string>
+    <!-- MainActivity layout strings  -->
+    <string name="images_number_message">Images:</string>
+    <string name="is_calibrated_message">Calibration:</string>
+    <string name="is_calibrated_negative">No</string>
+    <string name="is_calibrated_positive">Yes</string>
+    <string name="calibrate_button_message">Calibrate</string>
+    <string name="compare_button_message">Compare</string>
+    <string name="capture_button_message">Capture</string>
+    <string name="settings_button_message">Settings</string>
+    <!-- Settings layout strings  -->
+    <string name="settings_title">Settings</string>
+    <string name="needed_images_number_message">Necessary images number:</string>
+    <string name="needed_images_number_hint">(10 - 20)</string>
+    <string name="checkerboard_width_message">Checkerboard width:</string>
+    <string name="checkerboard_width_hint">> 3</string>
+    <string name="checkerboard_height_message">Checkerboard height:</string>
+    <string name="checkerboard_height_hint">>3</string>
+    <string name="restore_button_message">Restore defaults</string>
+    <string name="save_button_message">Save changes</string>
+    <!-- Toast messages  -->
+    <string name="not_enought_images_to_calibration_toast_message">Number of images required: </string>
+    <string name="calibration_already_done_toast_message">Calibration is already done</string>
+    <string name="directory_clear_toast_message">Directory is clear now</string>
+    <string name="camera_unavailable_toast_message">Camera unavailable!</string>
+    <string name="image_saved_toast_message">Image saved!</string>
+    <string name="no_checkerboard_detected_toast_message">No checkerboard detected!</string>
+    <string name="changes_saved_toast_message">Changes saved!</string>
+    <string name="incorrect_values_toast_message">Incorrect values!</string>
+    <string name="settings_restored_toast_message">Settings restored!</string>
+    <!-- Dialogs strings  -->
+    <string name="calibration_progress_dialog_title">Calibrating camera ...</string>
+    <string name="calibration_progress_dialog_message">Please wait ...</string>
+    <string name="comparation_progress_dialog_title">Finding checkerboard...</string>
+    <string name="comparation_progress_dialog_message">Please wait ...</string>
+    <string name="calibration_results_dialog_title">Calibration results</string>
+    <string name="calibration_results_dialog_message">Amount of rejected images: </string>
+    <string name="calibration_results_dialog_positive_button_text">Ok</string>
+    <string name="comparation_results_dialog_title">Comparation results</string>
+    <string name="comparation_results_dialog_positive_button_text">Ok</string>
+</resources>

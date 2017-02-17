@@ -1,0 +1,4 @@
+#Fri Feb 17 19:39:16 CET 2017
+base.0=D\:\\Dokumenty\\GitHub\\Checkerboard IMU Comparator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Dokumenty\\GitHub\\Checkerboard IMU Comparator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

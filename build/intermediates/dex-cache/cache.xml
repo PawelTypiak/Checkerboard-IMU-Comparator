@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_68bc19ce3cf797d999263c06a04079b973af5b8f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_eae312206c01bc564a2804f3bbf094184a335d2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7980d7258f50d55ec06957ba6f96cc1ee2bf30da">
+        <dex dex="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c0f6c71045b09af10cdc6a0163a4f5461e2fd060\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\Checkerboard IMU Comparator\openCVLibrary310\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f3a59d7b7aa0aacf761a1e24861865713a19bb13">
+        <dex dex="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\pre-dexed\debug\Checkerboard IMU Comparator-openCVLibrary310-unspecified_f78722880db1cb448810dadf4c45951029bdd516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_d1523fa8a7d177af7e564b522b1289a027eff1d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_aa619df7df4dd6b5cd732cdb8196713f0a16ae12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_e4380476048f46948a36ace990974150c87015b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_663a0bcf5078afc425d74c0e69c77361df3c26e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="38b7e3da65a4b0644984192f60540dc01eadf355">
+        <dex dex="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_06c94b5ab5c28a70e22c001e652a0d403f670198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_ae68e9031b7740e71a48bd132735f8fbb3c0b44c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pawel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_4658ac96c9609072b02d0360b470b7255c586d50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pawel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_4658ac96c9609072b02d0360b470b7255c586d50\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_bbbfd31e369871823d6a4d1a2eec2a854e548d23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_f41298eac2c28d71ebd2cf737307e8135db19841\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_2963c36f467d4bfa0b90ae68a0daaf3079fe5930.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_189fb39b30246489bcbc95fa80edd9920d00d0ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\pawel\Desktop\Cam_app-master\Checkerboard IMU comparator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_7dcbd6c17950882e40a07106b798ace099f310ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_32c863a07de89342e29cc75f7947140d4a2d83c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_336541522665a745561cd57aa331bc089fcf86ea.jar" />
+    </item>
+
+</items>

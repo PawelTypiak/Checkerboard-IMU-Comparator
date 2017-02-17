@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:7:19-67
+uses-feature#android.hardware.camera.front
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:9:9-53
+application
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:11:5-30:19
+MERGED from [com.android.support:design:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:13:9-40
+	android:theme
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:16:9-40
+activity#paweltypiak.checkerboard_imu_comparator.MainActivity
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:20:13-50
+	android:label
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:18:13-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:24:27-74
+activity#paweltypiak.checkerboard_imu_comparator.SettingsActivity
+ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:27:9-29:61
+	android:screenOrientation
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml:28:13-84
+uses-sdk
+INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [Checkerboard IMU Comparator:openCVLibrary310:unspecified] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\Checkerboard IMU Comparator\openCVLibrary310\unspecified\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.0] D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dokumenty\GitHub\Checkerboard IMU Comparator\app\src\main\AndroidManifest.xml
